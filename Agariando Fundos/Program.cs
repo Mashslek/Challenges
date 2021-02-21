@@ -48,8 +48,8 @@ namespace InvatitionList
             Console.WriteLine(solution);
             StreamWriter streamWriter = new StreamWriter("D:\\OutputFilePath");            
             streamWriter.WriteLine("Resposta : " + solution);
-            streamWriter.WriteLine(String.Join("\n", calculatedSubTrees.Select(x => String.Join("|", x.Key+ "\t\t" + x.Value))));
-            streamWriter.Flush();
+            //streamWriter.WriteLine(String.Join("\n", calculatedSubTrees.Select(x => String.Join("|", x.Key+ "\t\t" + x.Value))));
+            //streamWriter.Flush();
         }
         static int getBestDonationByFixedGuest(Guest curr, List<Guest> possibleGests) {
 
