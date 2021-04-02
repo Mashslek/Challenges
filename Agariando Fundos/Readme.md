@@ -1,4 +1,4 @@
-# Agariando Fundos
+# Angariando Fundos
 Uma politica de prestígio visando a presidência no próximo ano está planejando um evento para angariar fundos para sua campanha. Ela possui uma lista de pessoas abastadas no país e quer convidá-los de uma forma a maximizar seus fundos.
 
 Algumas vezes os ricos e abastados tem comportamentos fúteis e não gostam da ideia de alguém mais rico ou bonito do que eles existir. Toda vez que alguém assim encontra uma pessoa rigorosamente mais bonita, mas não rigorosamente mais rica, então uma discussão começa. Similarmente, se eles encontram uma pessoa que é rigorosamente mais rica mas não rigorosamente mais bonita uma discussão também começa. Essas duas situações são as únicas causas possíveis de discussões entre dois indivíduos. Assim, duas pessoas nunca discutirão caso uma seja estritamente mais bonita e mais rica que a outra. Também não ocorrem discussões quando ambas as pessoas são igualmente ricas e igualmente bonitas.
